@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "stXHFxnOtUyWzHU6nHBhysyBC2Y8H621F+2P4nobYTor5lriyD4w9cneQv2/Ah9cg35YLfeW3lXIA5M2Zn+Ptg==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\Programovani2\\Programovani2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DavidŽigmund\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+
+ Vstupní data pro simulaci obchodního domu
+ =========================================
+ 
+ Oddělení: 
+ =========
+    jméno          patro     rychlost obsluhy
+    -----------------------------------------
+O   papírnictví      0          5
+O   potraviny        0         15
+O   drogerie         0          6
+O   textil           1         15
+O   nábytek          2         20
+O   elektronika      3          5
+O   CD-DVD           3          4 
+
+ Výtah:
+ ======
+    jméno          kapacita  doba nastoupení    doba vystoupení   doba jízdy z patra do patra
+    -----------------------------------------------------------------------------------------
+V   vytah1          10            1                    1                    1
+
+ Zákazníci:
+ ==========
+    jméno          příchod  trpělivost seznam oddělení...
+    -----------------------------------------------------------------------------------------
+Z   Adam            10        1        CD-DVD
+Z   Alžběta         10        5        textil drogerie nábytek
+Z   Bořík           10        1        papírnictví elektronika
+Z   Barborka        10        1        CD-DVD papírnictví
+Z   Cyril           10        2        potraviny papírnictví
+Z   Cecilka         10        5        potraviny textil drogerie nábytek
+Z   David           11        3        CD-DVD elektronika
+Z   Dana            11        2        potraviny textil drogerie nábytek
+    
